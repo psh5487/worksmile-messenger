@@ -1,0 +1,13 @@
+Developed By 박소현
+
+• worksmile-auth-api-server
+-Spring Security
+-Spring Mail
+-JWT Token
+-Access Token / Refresh Token
+-MySQL / JPA
+-Redis (Lettuce Client Library)
+-OAuth2 기반 Client Credentials
+
+• Explanation
+https://blog.naver.com/sgs03091 -> 2021서버개발캠프 -> 인증 서버 개발

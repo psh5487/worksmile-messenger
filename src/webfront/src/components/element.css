@@ -1,0 +1,26 @@
+button.btn {
+    margin-bottom: 10px;
+    /* padding: 0px; */
+}
+
+.no-border.row {
+    border: 0;
+    padding: 0;
+}
+
+tr td.admin-table {
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 5px;
+    vertical-align: inherit;
+}
+
+tr td.admin-table * {
+    font-size: 0.8rem;
+}
+
+tr th {
+    font-weight: bold;
+    text-align: center;
+}
+

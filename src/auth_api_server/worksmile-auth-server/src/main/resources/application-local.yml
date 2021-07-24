@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: local
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/worksmile?allowPublicKeyRetrieval=true&useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul
+    username: jobjava
+    password: worksmile
+  jpa:
+    show-sql: true
+    jackson:
+      property-naming-strategy: SNAKE_CASE
+  redis:
+    host: localhost
+    port: 6377
+  security:
+    oauth2:
+      authorization:
+        check-token-access: isAuthenticated()

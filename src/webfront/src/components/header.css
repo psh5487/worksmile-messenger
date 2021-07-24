@@ -1,0 +1,17 @@
+.navbar {
+    height: 6vh;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.header-title {
+    color: #fff;
+    font-weight: bold;
+    vertical-align: middle;    
+}
+
+.header-title:hover {
+    color: #f8931d;
+}

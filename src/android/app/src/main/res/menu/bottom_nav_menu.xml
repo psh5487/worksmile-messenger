@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_message"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="@string/title_bottomNav_message" />
+    <item
+        android:id="@+id/nav_organization"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="@string/title_bottomNav_organization" />
+    <item
+        android:id="@+id/nav_calender"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="@string/title_bottomNav_calender" />
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/title_bottomNav_setting" />
+</menu>

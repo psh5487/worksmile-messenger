@@ -1,0 +1,9 @@
+.row.forbidden-row {
+    color: #000000;
+    border-bottom: 0px;
+    padding: 3px;
+}
+
+.forbidden-list {
+    width: 400px;
+}

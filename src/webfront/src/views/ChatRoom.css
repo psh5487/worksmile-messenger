@@ -1,0 +1,55 @@
+/* Chat Room Right */
+.chatting-container {
+    float: right;
+    width: calc(100% - 325px);
+    height: 94vh;
+}
+
+.partition {
+    padding: 10px;
+}
+
+#room-info {
+    border-bottom: 1px solid black;
+    height: 6vh;
+    align-items: center;
+}
+
+#room-info .room-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+#room-chat-list {
+    height: 78vh;
+    overflow-y: scroll;
+    background-color: #eee;
+}
+
+#room-chat-input {
+    border-top: 1px solid black;
+    height: 10vh;
+    text-align: center;
+}
+
+#room-chat-input #text {
+    width: 70%;
+}
+
+span.orange {
+    color: #f8931d;
+}
+
+/* Google Icon CSS */
+.material-icons {
+    vertical-align: text-bottom;
+}
+
+.md18 {
+    font-size: 1.5rem;
+}
+
+.pointer {
+    cursor: pointer;
+}

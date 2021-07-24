@@ -1,0 +1,26 @@
+/* Organization Left */
+.organization-tree {
+    background-color: #fff;
+    float: left;
+    width: 375px;
+    font-size: 14px;
+    color: #000;
+    overflow-y: auto;
+    height: 94vh;
+}
+
+.organization-tree::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Chat Right */
+.organization-content {
+    float: right;
+    background-color: #cecece;
+    width: calc((100% - 325px) - 375px);
+    overflow-y: auto;
+    height: 94vh;
+    display: table;
+}

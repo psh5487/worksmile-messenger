@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.smilegate.worksmile"
+    android:targetSandboxVersion="1"
+    tools:targetApi="o">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".common.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/worksmile_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/worksmile_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WorkSmile"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="n">
+
+        <activity
+            android:name=".activity.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.SignUpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".activity.HomeActivity" />
+        <activity
+            android:name=".activity.InviteUserActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activity.UserSearchActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.OpenChatSearchActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.GeneralSearchActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ChatActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.WorkSmile.NoActionBar"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activity.ChatAttachInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ChatMemberActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.GroupMemberActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

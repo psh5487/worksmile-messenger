@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.OpenChatSearchActivity">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/search_openChat"
+        android:layout_width="0dp"
+        android:layout_height="?actionBarSize"
+        android:layout_margin="12dp"
+        android:background="@drawable/shape_input_query"
+        android:elevation="8dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="2dp"
+        app:iconifiedByDefault="false"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:queryBackground="?android:attr/colorBackground"
+        app:queryHint="@string/search_hint" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_search_openChat"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:padding="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/search_openChat" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

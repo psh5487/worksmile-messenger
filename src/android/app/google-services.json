@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078840214892",
+    "project_id": "worksmile-22314",
+    "storage_bucket": "worksmile-22314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078840214892:android:bfec8aad322b922c351f49",
+        "android_client_info": {
+          "package_name": "com.smilegate.worksmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078840214892-hl8m5ug65vi00mdd7c652b7cg2f1nl2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAwCusQS2UNyuHz9L3PTuzI2iaAlzg_LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078840214892-hl8m5ug65vi00mdd7c652b7cg2f1nl2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/menu_attach_image"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:drawablePadding="8dp"
+        android:drawableTint="@color/sub_gray"
+        android:gravity="center_vertical"
+        android:paddingLeft="24dp"
+        android:paddingTop="12dp"
+        android:paddingRight="24dp"
+        android:paddingBottom="12dp"
+        android:text="이미지 첨부"
+        android:textColor="@color/main_gray"
+        android:textSize="16sp"
+        app:drawableLeftCompat="@drawable/drawable_left_attach_image"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="HardcodedText,UseCompatTextViewDrawableXml" />
+
+    <TextView
+        android:id="@+id/menu_attach_file"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:drawablePadding="8dp"
+        android:drawableTint="@color/sub_gray"
+        android:gravity="center_vertical"
+        android:paddingLeft="24dp"
+        android:paddingTop="12dp"
+        android:paddingRight="24dp"
+        android:paddingBottom="12dp"
+        android:text="파일 첨부"
+        android:textColor="@color/main_gray"
+        android:textSize="16sp"
+        app:drawableLeftCompat="@drawable/drawable_left_attach_file"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/menu_attach_image"
+        tools:ignore="HardcodedText,UseCompatTextViewDrawableXml" />
+</androidx.constraintlayout.widget.ConstraintLayout>

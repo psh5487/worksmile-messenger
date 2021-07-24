@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/chat_search"
+        android:icon="@drawable/ic_search_36"
+        android:title="채팅 검색"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/chat_nav"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title=""
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,17 @@
+Developed By 박소현
+
+• worksmile-message-server
+-웹소켓을 통한 메시지 이벤트 처리 서버
+-Spring WebSocket
+-STOMP 프로토콜
+-Redis Pub/Sub
+-MongoDB 메시지 저장
+-Firebase Push 알림
+
+• message-test-front
+-메시지 서버 작동 테스트를 위한 프론트
+-Javascript
+-sockjs, stomp Library 사용
+
+• Explanation
+https://blog.naver.com/sgs03091 -> 2021서버개발캠프 -> 메시지 서버 개발

@@ -1,0 +1,22 @@
+server:
+  port: 8080
+jwt:
+  secret: Giant-Panda-Aibao-Lebao-Xingbao-Lives-In-Everland-They-Are-Very-Very-Cute-Pandas
+spring:
+  profiles:
+    active: product
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: worksmile.shparkc@gmail.com
+    password: worksmile
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+
+
+

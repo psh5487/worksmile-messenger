@@ -1,0 +1,7 @@
+body {
+    overflow: auto;
+}
+
+.update-forbidden {
+    width: 400px;
+}

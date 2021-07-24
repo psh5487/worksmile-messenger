@@ -1,0 +1,2334 @@
+{
+  "v": "5.5.7",
+  "meta": {
+    "g": "LottieFiles AE 0.1.20",
+    "a": "Liteform",
+    "k": "",
+    "d": "Blue Smile",
+    "tc": ""
+  },
+  "fr": 29.9700012207031,
+  "ip": 100.000004073084,
+  "op": 210.000008553475,
+  "w": 849,
+  "h": 785,
+  "nm": "Comp 1",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "image_0",
+      "w": 329,
+      "h": 348,
+      "u": "",
+      "p": "data:image/png;base64,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",
+      "e": 1
+    },
+    {
+      "id": "image_1",
+      "w": 329,
+      "h": 348,
+      "u": "",
+      "p": "data:image/png;base64,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",
+      "e": 1
+    },
+    {
+      "id": "image_2",
+      "w": 329,
+      "h": 348,
+      "u": "",
+      "p": "data:image/png;base64,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",
+      "e": 1
+    }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 2,
+      "nm": "mouth/Make Smile logo square colour_layers.ai",
+      "cl": "ai",
+      "refId": "image_0",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [
+            423.5,
+            656.5,
+            0
+          ],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            164.5,
+            174,
+            0
+          ],
+          "ix": 1
+        },
+        "s": {
+          "a": 0,
+          "k": [
+            356.147,
+            356.147,
+            100
+          ],
+          "ix": 6
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [
+        {
+          "inv": false,
+          "mode": "n",
+          "pt": {
+            "a": 0,
+            "k": {
+              "i": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  -2.935,
+                  -3.434
+                ],
+                [
+                  -7.721,
+                  -5.798
+                ],
+                [
+                  -12.754,
+                  -4.447
+                ],
+                [
+                  -14.073,
+                  -3.114
+                ],
+                [
+                  -5.566,
+                  0.823
+                ],
+                [
+                  -3.702,
+                  2.405
+                ],
+                [
+                  -6.08,
+                  7.575
+                ],
+                [
+                  -1.581,
+                  2.13
+                ],
+                [
+                  -0.788,
+                  1.595
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "o": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  2.935,
+                  3.434
+                ],
+                [
+                  7.721,
+                  5.798
+                ],
+                [
+                  12.754,
+                  4.447
+                ],
+                [
+                  14.073,
+                  3.114
+                ],
+                [
+                  5.566,
+                  -0.823
+                ],
+                [
+                  3.702,
+                  -2.405
+                ],
+                [
+                  7.909,
+                  -9.853
+                ],
+                [
+                  1.581,
+                  -2.13
+                ],
+                [
+                  0.788,
+                  -1.595
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "v": [
+                [
+                  83.473,
+                  98.807
+                ],
+                [
+                  90.172,
+                  112.567
+                ],
+                [
+                  106.186,
+                  132.913
+                ],
+                [
+                  128.539,
+                  147.657
+                ],
+                [
+                  151.655,
+                  155.767
+                ],
+                [
+                  177.386,
+                  156.171
+                ],
+                [
+                  201.747,
+                  147.564
+                ],
+                [
+                  223.156,
+                  132.075
+                ],
+                [
+                  236.61,
+                  117.155
+                ],
+                [
+                  243.959,
+                  101.204
+                ],
+                [
+                  247.353,
+                  90.047
+                ]
+              ],
+              "c": false
+            },
+            "ix": 1
+          },
+          "o": {
+            "a": 0,
+            "k": 100,
+            "ix": 3
+          },
+          "x": {
+            "a": 0,
+            "k": 0,
+            "ix": 4
+          },
+          "nm": "Mask 1"
+        },
+        {
+          "inv": false,
+          "mode": "n",
+          "pt": {
+            "a": 0,
+            "k": {
+              "i": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "o": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "v": [
+                [
+                  69.277,
+                  93.366
+                ],
+                [
+                  70.073,
+                  92.835
+                ],
+                [
+                  71.002,
+                  92.305
+                ],
+                [
+                  72.195,
+                  91.642
+                ],
+                [
+                  73.787,
+                  90.713
+                ],
+                [
+                  75.909,
+                  89.652
+                ],
+                [
+                  78.561,
+                  88.989
+                ],
+                [
+                  80.816,
+                  88.326
+                ],
+                [
+                  83.07,
+                  87.928
+                ],
+                [
+                  84.662,
+                  87.398
+                ],
+                [
+                  87.181,
+                  87.265
+                ],
+                [
+                  89.966,
+                  87.133
+                ],
+                [
+                  91.956,
+                  87
+                ],
+                [
+                  94.078,
+                  87
+                ],
+                [
+                  96.73,
+                  87.133
+                ],
+                [
+                  98.454,
+                  87.133
+                ],
+                [
+                  100.444,
+                  87.398
+                ]
+              ],
+              "c": false
+            },
+            "ix": 1
+          },
+          "o": {
+            "a": 0,
+            "k": 100,
+            "ix": 3
+          },
+          "x": {
+            "a": 0,
+            "k": 0,
+            "ix": 4
+          },
+          "nm": "Mask 2"
+        },
+        {
+          "inv": false,
+          "mode": "n",
+          "pt": {
+            "a": 0,
+            "k": {
+              "i": [
+                [
+                  -0.796,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "o": [
+                [
+                  0.796,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "v": [
+                [
+                  232.668,
+                  83.817
+                ],
+                [
+                  234.922,
+                  83.552
+                ],
+                [
+                  236.514,
+                  83.552
+                ],
+                [
+                  237.575,
+                  83.552
+                ],
+                [
+                  239.166,
+                  83.419
+                ],
+                [
+                  240.89,
+                  83.419
+                ],
+                [
+                  242.88,
+                  83.684
+                ],
+                [
+                  244.736,
+                  84.082
+                ],
+                [
+                  247.654,
+                  85.276
+                ],
+                [
+                  249.776,
+                  86.47
+                ],
+                [
+                  251.898,
+                  87.663
+                ],
+                [
+                  253.622,
+                  88.724
+                ],
+                [
+                  255.213,
+                  89.785
+                ],
+                [
+                  257.998,
+                  92.305
+                ],
+                [
+                  260.916,
+                  94.825
+                ]
+              ],
+              "c": false
+            },
+            "ix": 1
+          },
+          "o": {
+            "a": 0,
+            "k": 100,
+            "ix": 3
+          },
+          "x": {
+            "a": 0,
+            "k": 0,
+            "ix": 4
+          },
+          "nm": "Mask 3"
+        }
+      ],
+      "ef": [
+        {
+          "ty": 22,
+          "nm": "Stroke",
+          "np": 13,
+          "mn": "ADBE Stroke",
+          "ix": 1,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 10,
+              "nm": "Path",
+              "mn": "ADBE Stroke-0001",
+              "ix": 1,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 1
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "All Masks",
+              "mn": "ADBE Stroke-0010",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 2
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Stroke Sequentially",
+              "mn": "ADBE Stroke-0011",
+              "ix": 3,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 3
+              }
+            },
+            {
+              "ty": 2,
+              "nm": "Color",
+              "mn": "ADBE Stroke-0002",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": [
+                  1,
+                  0,
+                  0,
+                  1
+                ],
+                "ix": 4
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Brush Size",
+              "mn": "ADBE Stroke-0003",
+              "ix": 5,
+              "v": {
+                "a": 0,
+                "k": 7.6,
+                "ix": 5
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Brush Hardness",
+              "mn": "ADBE Stroke-0004",
+              "ix": 6,
+              "v": {
+                "a": 0,
+                "k": 0.75,
+                "ix": 6
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Opacity",
+              "mn": "ADBE Stroke-0005",
+              "ix": 7,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 7
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Start",
+              "mn": "ADBE Stroke-0008",
+              "ix": 8,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 8
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "End",
+              "mn": "ADBE Stroke-0009",
+              "ix": 9,
+              "v": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": {
+                      "x": [
+                        0.833
+                      ],
+                      "y": [
+                        0.833
+                      ]
+                    },
+                    "o": {
+                      "x": [
+                        0.167
+                      ],
+                      "y": [
+                        0.167
+                      ]
+                    },
+                    "t": 127,
+                    "s": [
+                      0
+                    ]
+                  },
+                  {
+                    "t": 154.000006272549,
+                    "s": [
+                      100
+                    ]
+                  }
+                ],
+                "ix": 9
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Spacing",
+              "mn": "ADBE Stroke-0006",
+              "ix": 10,
+              "v": {
+                "a": 0,
+                "k": 16,
+                "ix": 10
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Paint Style",
+              "mn": "ADBE Stroke-0007",
+              "ix": 11,
+              "v": {
+                "a": 0,
+                "k": 3,
+                "ix": 11
+              }
+            }
+          ]
+        },
+        {
+          "ty": 5,
+          "nm": "Change to Color",
+          "np": 13,
+          "mn": "ADBE Change To Color",
+          "ix": 2,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 2,
+              "nm": "From",
+              "mn": "ADBE Change To Color-0001",
+              "ix": 1,
+              "v": {
+                "a": 0,
+                "k": [
+                  0.003921568859,
+                  0.627451002598,
+                  0.776470601559,
+                  1
+                ],
+                "ix": 1
+              }
+            },
+            {
+              "ty": 2,
+              "nm": "To",
+              "mn": "ADBE Change To Color-0002",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": [
+                  0,
+                  0.678431391716,
+                  0.937254905701,
+                  1
+                ],
+                "ix": 2
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Change",
+              "mn": "ADBE Change To Color-0003",
+              "ix": 3,
+              "v": {
+                "a": 0,
+                "k": 4,
+                "ix": 3
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Change By",
+              "mn": "ADBE Change To Color-0004",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 4
+              }
+            },
+            {
+              "ty": 6,
+              "nm": "Tolerance",
+              "mn": "ADBE Change To Color-0010",
+              "ix": 5,
+              "v": 0
+            },
+            {
+              "ty": 0,
+              "nm": "Hue",
+              "mn": "ADBE Change To Color-0005",
+              "ix": 6,
+              "v": {
+                "a": 0,
+                "k": 0.1,
+                "ix": 6
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Lightness",
+              "mn": "ADBE Change To Color-0006",
+              "ix": 7,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 7
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Saturation",
+              "mn": "ADBE Change To Color-0007",
+              "ix": 8,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 8
+              }
+            },
+            {
+              "ty": 6,
+              "nm": "Saturation",
+              "mn": "ADBE Change To Color-0011",
+              "ix": 9,
+              "v": 0
+            },
+            {
+              "ty": 0,
+              "nm": "Softness",
+              "mn": "ADBE Change To Color-0008",
+              "ix": 10,
+              "v": {
+                "a": 0,
+                "k": 0.5,
+                "ix": 10
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "View Correction Matte",
+              "mn": "ADBE Change To Color-0009",
+              "ix": 11,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 11
+              }
+            }
+          ]
+        }
+      ],
+      "ip": 0,
+      "op": 210.000008553475,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 2,
+      "ty": 2,
+      "nm": "left eye/Make Smile logo square colour_layers.ai",
+      "cl": "ai",
+      "refId": "image_1",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [
+            414,
+            642.5,
+            0
+          ],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            164.5,
+            174,
+            0
+          ],
+          "ix": 1
+        },
+        "s": {
+          "a": 0,
+          "k": [
+            351.523,
+            351.523,
+            100
+          ],
+          "ix": 6
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [
+        {
+          "inv": false,
+          "mode": "n",
+          "pt": {
+            "a": 0,
+            "k": {
+              "i": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.47,
+                  0.157
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0.939
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.939,
+                  0.626
+                ],
+                [
+                  -0.626,
+                  0
+                ],
+                [
+                  -0.939,
+                  -0.313
+                ],
+                [
+                  -0.626,
+                  -0.626
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.626,
+                  0.783
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "o": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.47,
+                  -0.157
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.783,
+                  -0.156
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.939,
+                  -0.626
+                ],
+                [
+                  0.626,
+                  0
+                ],
+                [
+                  0.939,
+                  0.313
+                ],
+                [
+                  0.626,
+                  0.626
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.626,
+                  -0.783
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "v": [
+                [
+                  134.608,
+                  65.702
+                ],
+                [
+                  139.303,
+                  61.633
+                ],
+                [
+                  144.155,
+                  61.163
+                ],
+                [
+                  149.006,
+                  63.354
+                ],
+                [
+                  151.041,
+                  66.641
+                ],
+                [
+                  151.51,
+                  70.866
+                ],
+                [
+                  148.693,
+                  74.779
+                ],
+                [
+                  146.189,
+                  76.97
+                ],
+                [
+                  142.12,
+                  77.126
+                ],
+                [
+                  137.895,
+                  75.718
+                ],
+                [
+                  136.486,
+                  72.901
+                ],
+                [
+                  134.608,
+                  68.519
+                ],
+                [
+                  137.738,
+                  66.641
+                ],
+                [
+                  141.494,
+                  64.606
+                ],
+                [
+                  144.937,
+                  64.606
+                ],
+                [
+                  147.128,
+                  66.954
+                ],
+                [
+                  148.224,
+                  69.614
+                ],
+                [
+                  147.128,
+                  71.649
+                ],
+                [
+                  145.094,
+                  73.37
+                ],
+                [
+                  141.651,
+                  73.84
+                ],
+                [
+                  140.086,
+                  71.336
+                ],
+                [
+                  139.773,
+                  69.301
+                ],
+                [
+                  143.842,
+                  67.893
+                ],
+                [
+                  143.998,
+                  70.084
+                ]
+              ],
+              "c": false
+            },
+            "ix": 1
+          },
+          "o": {
+            "a": 0,
+            "k": 100,
+            "ix": 3
+          },
+          "x": {
+            "a": 0,
+            "k": 0,
+            "ix": 4
+          },
+          "nm": "Mask 1"
+        }
+      ],
+      "ef": [
+        {
+          "ty": 22,
+          "nm": "Stroke",
+          "np": 13,
+          "mn": "ADBE Stroke",
+          "ix": 1,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 10,
+              "nm": "Path",
+              "mn": "ADBE Stroke-0001",
+              "ix": 1,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 1
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "All Masks",
+              "mn": "ADBE Stroke-0010",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 2
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Stroke Sequentially",
+              "mn": "ADBE Stroke-0011",
+              "ix": 3,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 3
+              }
+            },
+            {
+              "ty": 2,
+              "nm": "Color",
+              "mn": "ADBE Stroke-0002",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": [
+                  1,
+                  0,
+                  0,
+                  1
+                ],
+                "ix": 4
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Brush Size",
+              "mn": "ADBE Stroke-0003",
+              "ix": 5,
+              "v": {
+                "a": 0,
+                "k": 3.5,
+                "ix": 5
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Brush Hardness",
+              "mn": "ADBE Stroke-0004",
+              "ix": 6,
+              "v": {
+                "a": 0,
+                "k": 0.75,
+                "ix": 6
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Opacity",
+              "mn": "ADBE Stroke-0005",
+              "ix": 7,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 7
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Start",
+              "mn": "ADBE Stroke-0008",
+              "ix": 8,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 8
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "End",
+              "mn": "ADBE Stroke-0009",
+              "ix": 9,
+              "v": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": {
+                      "x": [
+                        0.833
+                      ],
+                      "y": [
+                        0.833
+                      ]
+                    },
+                    "o": {
+                      "x": [
+                        0.167
+                      ],
+                      "y": [
+                        0.167
+                      ]
+                    },
+                    "t": 106,
+                    "s": [
+                      0
+                    ]
+                  },
+                  {
+                    "t": 116.000004724777,
+                    "s": [
+                      100
+                    ]
+                  }
+                ],
+                "ix": 9
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Spacing",
+              "mn": "ADBE Stroke-0006",
+              "ix": 10,
+              "v": {
+                "a": 0,
+                "k": 15,
+                "ix": 10
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Paint Style",
+              "mn": "ADBE Stroke-0007",
+              "ix": 11,
+              "v": {
+                "a": 0,
+                "k": 3,
+                "ix": 11
+              }
+            }
+          ]
+        },
+        {
+          "ty": 5,
+          "nm": "Change to Color",
+          "np": 13,
+          "mn": "ADBE Change To Color",
+          "ix": 2,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 2,
+              "nm": "From",
+              "mn": "ADBE Change To Color-0001",
+              "ix": 1,
+              "v": {
+                "a": 0,
+                "k": [
+                  0.003921568859,
+                  0.627451002598,
+                  0.776470601559,
+                  1
+                ],
+                "ix": 1
+              }
+            },
+            {
+              "ty": 2,
+              "nm": "To",
+              "mn": "ADBE Change To Color-0002",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": [
+                  0,
+                  0.678431391716,
+                  0.937254905701,
+                  1
+                ],
+                "ix": 2
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Change",
+              "mn": "ADBE Change To Color-0003",
+              "ix": 3,
+              "v": {
+                "a": 0,
+                "k": 4,
+                "ix": 3
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Change By",
+              "mn": "ADBE Change To Color-0004",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 4
+              }
+            },
+            {
+              "ty": 6,
+              "nm": "Tolerance",
+              "mn": "ADBE Change To Color-0010",
+              "ix": 5,
+              "v": 0
+            },
+            {
+              "ty": 0,
+              "nm": "Hue",
+              "mn": "ADBE Change To Color-0005",
+              "ix": 6,
+              "v": {
+                "a": 0,
+                "k": 0.1,
+                "ix": 6
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Lightness",
+              "mn": "ADBE Change To Color-0006",
+              "ix": 7,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 7
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Saturation",
+              "mn": "ADBE Change To Color-0007",
+              "ix": 8,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 8
+              }
+            },
+            {
+              "ty": 6,
+              "nm": "Saturation",
+              "mn": "ADBE Change To Color-0011",
+              "ix": 9,
+              "v": 0
+            },
+            {
+              "ty": 0,
+              "nm": "Softness",
+              "mn": "ADBE Change To Color-0008",
+              "ix": 10,
+              "v": {
+                "a": 0,
+                "k": 0.5,
+                "ix": 10
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "View Correction Matte",
+              "mn": "ADBE Change To Color-0009",
+              "ix": 11,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 11
+              }
+            }
+          ]
+        }
+      ],
+      "ip": 0,
+      "op": 210.000008553475,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 3,
+      "ty": 2,
+      "nm": "right eye/Make Smile logo square colour_layers.ai",
+      "cl": "ai",
+      "refId": "image_2",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [
+            415,
+            650.5,
+            0
+          ],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            164.5,
+            174,
+            0
+          ],
+          "ix": 1
+        },
+        "s": {
+          "a": 0,
+          "k": [
+            360.865,
+            360.865,
+            100
+          ],
+          "ix": 6
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [
+        {
+          "inv": false,
+          "mode": "n",
+          "pt": {
+            "a": 0,
+            "k": {
+              "i": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  -0.444
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.739,
+                  0.444
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.591,
+                  0.887
+                ],
+                [
+                  -0.591,
+                  0.591
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.739,
+                  -0.148
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.739,
+                  -1.626
+                ],
+                [
+                  0.887,
+                  0.148
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "o": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0.444
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.739,
+                  -0.444
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.591,
+                  -0.887
+                ],
+                [
+                  0.591,
+                  -0.591
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0.739,
+                  0.148
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  -0.739,
+                  1.626
+                ],
+                [
+                  -0.887,
+                  -0.148
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  0
+                ]
+              ],
+              "v": [
+                [
+                  187.269,
+                  66.51
+                ],
+                [
+                  191.114,
+                  62.814
+                ],
+                [
+                  195.845,
+                  62.814
+                ],
+                [
+                  200.428,
+                  64.884
+                ],
+                [
+                  202.942,
+                  68.285
+                ],
+                [
+                  202.498,
+                  72.572
+                ],
+                [
+                  200.872,
+                  76.564
+                ],
+                [
+                  196.584,
+                  78.339
+                ],
+                [
+                  193.036,
+                  78.486
+                ],
+                [
+                  188.157,
+                  75.086
+                ],
+                [
+                  186.382,
+                  71.242
+                ],
+                [
+                  188.6,
+                  67.693
+                ],
+                [
+                  193.036,
+                  65.771
+                ],
+                [
+                  195.845,
+                  66.067
+                ],
+                [
+                  200.281,
+                  69.763
+                ],
+                [
+                  199.985,
+                  71.833
+                ],
+                [
+                  193.923,
+                  74.938
+                ],
+                [
+                  191.557,
+                  73.755
+                ],
+                [
+                  189.635,
+                  71.685
+                ],
+                [
+                  190.966,
+                  69.32
+                ],
+                [
+                  194.071,
+                  69.172
+                ],
+                [
+                  195.697,
+                  70.207
+                ],
+                [
+                  194.219,
+                  72.277
+                ]
+              ],
+              "c": false
+            },
+            "ix": 1
+          },
+          "o": {
+            "a": 0,
+            "k": 100,
+            "ix": 3
+          },
+          "x": {
+            "a": 0,
+            "k": 0,
+            "ix": 4
+          },
+          "nm": "Mask 1"
+        }
+      ],
+      "ef": [
+        {
+          "ty": 22,
+          "nm": "Stroke",
+          "np": 13,
+          "mn": "ADBE Stroke",
+          "ix": 1,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 10,
+              "nm": "Path",
+              "mn": "ADBE Stroke-0001",
+              "ix": 1,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 1
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "All Masks",
+              "mn": "ADBE Stroke-0010",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 2
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Stroke Sequentially",
+              "mn": "ADBE Stroke-0011",
+              "ix": 3,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 3
+              }
+            },
+            {
+              "ty": 2,
+              "nm": "Color",
+              "mn": "ADBE Stroke-0002",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": [
+                  1,
+                  0,
+                  0,
+                  1
+                ],
+                "ix": 4
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Brush Size",
+              "mn": "ADBE Stroke-0003",
+              "ix": 5,
+              "v": {
+                "a": 0,
+                "k": 3.9,
+                "ix": 5
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Brush Hardness",
+              "mn": "ADBE Stroke-0004",
+              "ix": 6,
+              "v": {
+                "a": 0,
+                "k": 0.75,
+                "ix": 6
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Opacity",
+              "mn": "ADBE Stroke-0005",
+              "ix": 7,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 7
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Start",
+              "mn": "ADBE Stroke-0008",
+              "ix": 8,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 8
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "End",
+              "mn": "ADBE Stroke-0009",
+              "ix": 9,
+              "v": {
+                "a": 1,
+                "k": [
+                  {
+                    "i": {
+                      "x": [
+                        0.833
+                      ],
+                      "y": [
+                        0.833
+                      ]
+                    },
+                    "o": {
+                      "x": [
+                        0.167
+                      ],
+                      "y": [
+                        0.167
+                      ]
+                    },
+                    "t": 116,
+                    "s": [
+                      0
+                    ]
+                  },
+                  {
+                    "t": 127.000005172816,
+                    "s": [
+                      100
+                    ]
+                  }
+                ],
+                "ix": 9
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Spacing",
+              "mn": "ADBE Stroke-0006",
+              "ix": 10,
+              "v": {
+                "a": 0,
+                "k": 15,
+                "ix": 10
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Paint Style",
+              "mn": "ADBE Stroke-0007",
+              "ix": 11,
+              "v": {
+                "a": 0,
+                "k": 3,
+                "ix": 11
+              }
+            }
+          ]
+        },
+        {
+          "ty": 5,
+          "nm": "Change to Color",
+          "np": 13,
+          "mn": "ADBE Change To Color",
+          "ix": 2,
+          "en": 1,
+          "ef": [
+            {
+              "ty": 2,
+              "nm": "From",
+              "mn": "ADBE Change To Color-0001",
+              "ix": 1,
+              "v": {
+                "a": 0,
+                "k": [
+                  0.003921568859,
+                  0.627451002598,
+                  0.776470601559,
+                  1
+                ],
+                "ix": 1
+              }
+            },
+            {
+              "ty": 2,
+              "nm": "To",
+              "mn": "ADBE Change To Color-0002",
+              "ix": 2,
+              "v": {
+                "a": 0,
+                "k": [
+                  0,
+                  0.678431391716,
+                  0.937254905701,
+                  1
+                ],
+                "ix": 2
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Change",
+              "mn": "ADBE Change To Color-0003",
+              "ix": 3,
+              "v": {
+                "a": 0,
+                "k": 4,
+                "ix": 3
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "Change By",
+              "mn": "ADBE Change To Color-0004",
+              "ix": 4,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 4
+              }
+            },
+            {
+              "ty": 6,
+              "nm": "Tolerance",
+              "mn": "ADBE Change To Color-0010",
+              "ix": 5,
+              "v": 0
+            },
+            {
+              "ty": 0,
+              "nm": "Hue",
+              "mn": "ADBE Change To Color-0005",
+              "ix": 6,
+              "v": {
+                "a": 0,
+                "k": 0.1,
+                "ix": 6
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Lightness",
+              "mn": "ADBE Change To Color-0006",
+              "ix": 7,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 7
+              }
+            },
+            {
+              "ty": 0,
+              "nm": "Saturation",
+              "mn": "ADBE Change To Color-0007",
+              "ix": 8,
+              "v": {
+                "a": 0,
+                "k": 1,
+                "ix": 8
+              }
+            },
+            {
+              "ty": 6,
+              "nm": "Saturation",
+              "mn": "ADBE Change To Color-0011",
+              "ix": 9,
+              "v": 0
+            },
+            {
+              "ty": 0,
+              "nm": "Softness",
+              "mn": "ADBE Change To Color-0008",
+              "ix": 10,
+              "v": {
+                "a": 0,
+                "k": 0.5,
+                "ix": 10
+              }
+            },
+            {
+              "ty": 7,
+              "nm": "View Correction Matte",
+              "mn": "ADBE Change To Color-0009",
+              "ix": 11,
+              "v": {
+                "a": 0,
+                "k": 0,
+                "ix": 11
+              }
+            }
+          ]
+        }
+      ],
+      "ip": 0,
+      "op": 210.000008553475,
+      "st": 0,
+      "bm": 0
+    }
+  ],
+  "markers": []
+}

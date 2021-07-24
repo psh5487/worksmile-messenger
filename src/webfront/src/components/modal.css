@@ -1,0 +1,24 @@
+/* Button Customizing */
+button.btn {
+    width: 100%;
+    background-color: #f8931d;
+    border-color: #f8931d;
+}
+
+button.btn:hover {
+    background-color: #de8527;
+    border-color: #de8527;
+}
+
+div.modal-title {
+    font-size: 1.5rem;
+}
+
+.modal-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+.pointer {
+    cursor: pointer;
+}

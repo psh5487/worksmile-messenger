@@ -1,0 +1,58 @@
+/* React-bootstrap setting */
+/* div.row {
+    border-bottom: 0px;
+} */
+.col-img img {
+    border-radius: 5px;
+}
+
+.row {
+    color: #fff;
+}
+
+.dropdown-item {
+    font-size: 0.8rem;
+}
+
+/* */
+div.user-room {
+    position: relative;
+    border-bottom: 0px;
+}
+
+.user-room:hover {
+    cursor: pointer;
+    background-color: rgba(50, 50, 50, 0.5);
+}
+
+.room-side {
+    position: absolute;
+    z-index: 9999;
+    top: 23px;
+    right: 5px;
+}
+
+.room-side #setting-dropdown>span:hover {
+    color: #f8931d;
+}
+.room-not-read {
+    color: red;
+    font-weight: bold;
+}
+.room-member {
+    color: #f8931d;
+    font-weight: bold;
+}
+
+span.room-title {
+    color: #ccc;
+    font-weight: bold;
+}
+
+span.room-timestamp {
+    font-size: 0.7rem;
+}
+
+span.room-content {
+    font-size: 0.8rem;
+}

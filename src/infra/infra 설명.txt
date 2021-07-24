@@ -1,0 +1,13 @@
+Developed By 박소현
+
+• AWS 사내 인프라 기반
+
+• deploy.sh
+-SpringBoot 프로젝트 배포 스크립트
+
+• haproxy.cfg
+-Api Gateway
+-Load Balancing
+
+• Explanation
+https://blog.naver.com/sgs03091 -> 2021서버개발캠프 -> Infra 개발

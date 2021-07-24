@@ -1,0 +1,20 @@
+spring:
+  profiles:
+    active: local
+  redis:
+    host: localhost
+    port: 6378
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: worksmile
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/worksmile?allowPublicKeyRetrieval=true&useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul
+    username: jobjava
+    password: worksmile
+  jpa:
+    show-sql: true
+    jackson:
+      property-naming-strategy: SNAKE_CASE

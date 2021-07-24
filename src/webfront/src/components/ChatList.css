@@ -1,0 +1,59 @@
+body {
+    overflow: hidden;
+}
+
+/* Chat Left */
+.list-container {
+    background-color: #606060;
+    float: left;
+    width: 325px;
+    font-size: 14px;
+    color: #fff;
+    overflow-y: scroll;
+    height: 94vh;
+}
+
+div.col {   
+    padding: 0px 0px 0px 10px;
+}
+
+div.col-img {
+    padding: 0;
+}
+
+div.row {
+    margin: 0;
+    padding: 12px;
+    border-bottom: 1px solid #7a7a7a;
+}
+
+.user-profile {
+    font-weight: bold;
+}
+
+.room-search {
+    padding: 12px;
+    border-bottom: 1px solid #7a7a7a;
+}
+
+.favorite-roomlist {
+    padding-top: 12px;
+}
+
+.room-type {
+    padding-left: 12px;
+}
+
+div.form-group {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+/* Google Icons CSS */
+.light {
+    color: #fff;
+}
+
+.pointer {
+    cursor: pointer;
+}

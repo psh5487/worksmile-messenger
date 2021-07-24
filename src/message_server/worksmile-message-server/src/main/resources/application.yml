@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  profiles:
+    active: product
+  jwt:
+    secret: Giant-Panda-Aibao-Lebao-Xingbao-Lives-In-Everland-They-Are-Very-Very-Cute-Pandas

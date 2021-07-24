@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chat WebSocket</title>
+        <script src="https://cdn.jsdelivr.net/npm/sockjs-client@1/dist/sockjs.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+    </head>
+
+    <body onload="disconnect()">
+        <div>
+            <div>
+              <input type="text" id="sender" placeholder="Input UserId"/>
+            </div>
+            <br />
+
+            <div>
+              <button id="connect">Connect</button>
+              <button id="disconnect" disabled="disabled">Disconnect</button>
+            </div>
+            <br />
+
+            <h4>채팅방 리스트(최근 메시지 보이기)</h4>
+            <div id="roomListDiv">
+              <p id="responseInChatRoomList"></p>
+            </div>
+            <hr />
+
+            <h4>채팅방</h4>
+            <div>
+              <input type="text" id="roomId" placeholder="Input RoomId"/>
+            </div>
+            <br />
+
+            <div>
+              <button id="subscribe">Subscribe (채팅방 ON)</button>
+              <button id="unsubscribe" disabled="disabled">Unsubscribe (채팅방 OFF)</button>
+            </div>
+            <br />
+
+            <div id="chatRoomDiv">
+              <input type="text" id="text" placeholder="메시지를 입력하세요."/>
+              <button id="sendMessage">전송</button>
+              <p id="response"></p>
+            </div>
+        </div>
+    </body>
+    <script type="text/javascript" src="js/chat.js"></script>
+</html>

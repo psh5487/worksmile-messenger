@@ -1,0 +1,40 @@
+/* Button Customizing */
+button.btn {
+    width: 100%;
+    background-color: #f8931d;
+    border-color: #f8931d;
+}
+
+button.btn:hover {
+    background-color: #de8527;
+    border-color: #de8527;
+}
+
+
+/* Element Properties */
+.pointer {
+    cursor: pointer;
+}
+
+div.modal-title {
+    font-size: 1.5rem;
+}
+
+.modal-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+
+/* setting icon */
+#setting-dropdown {
+    white-space: inherit;
+    padding: 0px;
+    width: inherit;
+    background-color: rgba(0,0,0,0);
+    border: none;
+}
+
+#setting-dropdown::after {
+    content: none;
+}

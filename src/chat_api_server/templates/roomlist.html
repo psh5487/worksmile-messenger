@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script>
+		$(function() {
+		    $("#createRoom").on("click", function(){
+                        alert("hi");
+                        var postdata = {
+                        'room_leader': 'uid01',
+                        'company_name': 'AA',
+                        'userlist': ['uid01','uid05'],
+                        'room_type': 'private',
+                        'room_name':'1과 5의 방',
+                        'memcnt' : 2
+                        }
+		        alert("hi");
+		        $.ajax({
+                                type : "POST",
+                                url : "http://10.250.93.122:5000/api/chat/room/",
+                                data: JSON.stringify(postdata),
+                                dataType : 'JSON',
+                                contentType: "application/json",
+                                success : function(result){
+                                        alert("성공 : "+ JSON.stringify(result));
+                                },
+                                error : function(xtr,status,error){
+                                        alert(xtr +":"+status+":"+error);
+                                }
+                        });
+                    });
+                    
+		});
+</script>
+</head>
+<body>
+
+<input type="button" id="createRoom" value="채팅방 생성"/>
+
+</body>
+</html>

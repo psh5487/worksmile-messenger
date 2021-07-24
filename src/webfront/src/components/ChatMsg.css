@@ -1,0 +1,15 @@
+.my-message {
+    text-align: right;
+    padding: 3px;
+    margin: 7px;
+}
+
+.not-my-message {
+    text-align: left;
+    padding: 3px;
+    margin: 7px;
+}
+
+.msg-uname, .msg-pname, .msg-cname {
+    font-weight: bold;
+}
